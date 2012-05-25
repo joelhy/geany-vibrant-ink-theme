@@ -4,7 +4,7 @@
 
 # used for filetype All/None
 # default=default commented out since this breaks geany 0.16
-default=0xffffff;0x000000;false;false
+default=0x00ff00;0x000000;false;false
 
 # 3rd selection argument is true to override default foreground
 # 4th selection argument is true to override default background

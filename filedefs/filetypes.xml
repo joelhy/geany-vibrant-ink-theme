@@ -24,7 +24,7 @@ html_asp=0x66ff00;0x000000;false;false
 # <%@ ... %>
 html_aspat=0xffffff;0x000000;false;false
 html_cdata=0xff8000;0x000000;false;false
-html_question=0x0000ff;0x000000;false;false
+html_question=0x729fcf;0x000000;false;false
 html_value=0xff8000;0x000000;false;false
 html_xccomment=commentdoc
 
